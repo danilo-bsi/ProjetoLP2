@@ -9,5 +9,6 @@
  * @author Danilo
  */
 public class TestRub {
+    int test;
     
 }
